@@ -1,0 +1,7 @@
+abab03b HEAD@{0}: commit: guardando cambios en status.js en custom-navbar
+6f39664 HEAD@{1}: checkout: moving from master to custom-navbar
+563eadf HEAD@{2}: commit: eliminado status.js de master
+6f39664 HEAD@{3}: checkout: moving from custom-navbar to master
+6f39664 HEAD@{4}: reset: moving to HEAD
+6f39664 HEAD@{5}: checkout: moving from master to custom-navbar
+6f39664 HEAD@{6}: commit (initial): creado status.js en master
